@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.CompleteGiaoHang_Activity">
+
+    <TextView
+        android:id="@+id/txt_DONHON"
+        android:layout_marginTop="40dp"
+        android:text="Đơn hàng của bạn đang được vận chuyển, vui lòng chờ!"
+        android:textSize="28sp"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/txt_DONHON"
+        android:textSize="18sp"
+        android:background="@drawable/backgroundbutton"
+        android:layout_width="wrap_content"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:text="OK"/>
+</RelativeLayout>

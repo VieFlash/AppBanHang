@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable-v24/btn_close.xml" value="0.192" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable-v24/btn_themtien.xml" value="0.192" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable-xxhdpi/TenCuaHang_background.xml" value="0.18" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/backgroundbutton.xml" value="0.1815" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/backgroundbutton1.xml" value="0.1955" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/banner_background.xml" value="0.1815" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/btn_add.xml" value="0.192" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/btn_close.xml" value="0.192" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/btn_minusplus.xml" value="0.192" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/cart_background.xml" value="0.1835" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/cat_background.xml" value="0.1895" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/custom_background.xml" value="0.1895" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/ic_back.xml" value="0.192" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/ic_close.xml" value="0.192" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/scrim.xml" value="0.144" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/scrim_topdown.xml" value="0.192" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/scroll_bar_icon.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/search_background.xml" value="0.194" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/selectofyou_background.xml" value="0.186" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/selector.xml" value="0.223" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/tea_btn.xml" value="0.1835" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/drawable/tencuahang_background.xml" value="0.18" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_ca_nhan.xml" value="0.17421875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_chi_tiet_thuc_pham.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_com_rice.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_complete_giao_hang.xml" value="0.1875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_danh_sach.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_danh_sach_items.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_danhsach_thucpham.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_danhsachitem_bubbletea.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_don_hang.xml" value="0.184765625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_home.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_intro.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_bubbletea.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_cream.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_decor.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_drinks.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_dumpling.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_hotpot.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_medicine.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_noodles.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_pet.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_rice.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_skewer.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_menu_stickyrice.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_rice.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/activity_tim_kiem.xml" value="0.184765625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/danhsachitem_bubbletea.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/danhsachitems_bubbletea_activity.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_banner.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_chude.xml" value="0.4" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_danhsach.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_danhsachitembubbletea.xml" value="0.1875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_danhsachthucpham.xml" value="0.1875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_gio_hang.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_quanhdaycogi.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storebubbletea.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storecream.xml" value="0.4" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storedecor.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storedrink.xml" value="0.4" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storedumpling.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storehotpot.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storemedicine.xml" value="0.4" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storenoodles.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storepet.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storerice.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storeskewer.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storestickyrice.xml" value="0.4" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_storestickyrie.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/dong_theloai.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_banner.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_chudetrongngay.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_chudevatheloai.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_com_rice.xml" value="0.14447463768115942" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_favorite.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_game.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_homnayangi.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_bubbletea.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storebubbletea.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storecream.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storedecor.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storedrinks.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storedumpling.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storehotpot.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storemedicine.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storenoodles.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storepet.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storerice.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storeskewer.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_items_storestickyrice.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_library.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_likes.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_me.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_menucacloai.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_menuitems.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_q_d_c_g__favorite_.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_q_d_c_g__home_.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_q_d_c_g__mypage_.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_quanhdaycogi.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_search.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_search_home.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_storedrinks.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_tab2.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/fragment_theloaitrongngay.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/items_bubbletea_activity.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/list_adapter.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/tablayout_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/layout/viewholder_category.xml" value="0.4" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/App_Cua_Tao/app/src/main/res/menu/menu_bottomnavigation.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

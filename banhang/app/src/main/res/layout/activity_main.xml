@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#F1F1F1"
+    android:layout_height="match_parent"
+    tools:context=".Activity.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <fragment
+
+                android:id="@+id/fragmentbanner"
+                android:name="com.example.app_cua_tao.Fragment.Fragment_Banner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+
+            <fragment
+                android:name="com.example.app_cua_tao.Fragment.Fragment_MenuItems"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <fragment
+                android:layout_marginTop="3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:name="com.example.app_cua_tao.Fragment.Fragment_ChuDeTrongNgay"/>
+
+            <fragment
+                android:name="com.example.app_cua_tao.Fragment.Fragment_TheLoaiTrongNgay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <fragment
+                android:layout_marginTop="3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:name="com.example.app_cua_tao.Fragment.Fragment_QuanhDayCoGi"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:menu="@menu/menu_bottomnavigation"
+        android:background="@color/white"
+        android:layout_alignParentBottom="true"
+        app:itemTextColor="@color/custom_color_navigation"
+        app:itemIconTint="@color/custom_color_navigation"
+        app:labelVisibilityMode="labeled"
+        />
+
+
+</LinearLayout>

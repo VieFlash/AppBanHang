@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.app_cua_tao">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/dumpling"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/dumpling"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+        tools:targetApi="31">
+        <activity
+            android:name=".CompleteGiaoHang_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.DonHang_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ChiTiet_ThucPham_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.DanhSach_ThucPham_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_cream_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_skewer_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_dumpling_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_decor_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_pet_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_medicine_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_bubbletea_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_stickyrice_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_hotpot_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_drinks_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_noodles_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.menu_rice_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Intro_Activity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

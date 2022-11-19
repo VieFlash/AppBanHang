@@ -1,0 +1,122 @@
+package com.example.app_cua_tao.Model;
+
+
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
+import java.io.Serializable;
+
+public class QuangCao implements Serializable {
+
+@SerializedName("idQuangCao")
+@Expose
+private String idQuangCao;
+@SerializedName("HinhAnhQuangCao")
+@Expose
+private String hinhAnhQuangCao;
+@SerializedName("NoiDungQuangCao")
+@Expose
+private String noiDungQuangCao;
+@SerializedName("idCHBubbleTea")
+@Expose
+private String idCHBubbleTea;
+@SerializedName("TenCHBubbleTea")
+@Expose
+private String tenCHBubbleTea;
+@SerializedName("HinhAnhCHBubbleTea")
+@Expose
+private String hinhAnhCHBubbleTea;
+@SerializedName("MoTaCHBubbleTea")
+@Expose
+private String moTaCHBubbleTea;
+@SerializedName("DanhGiaCHBubbleTea")
+@Expose
+private String danhGiaCHBubbleTea;
+@SerializedName("SoKMCHBubbleTea")
+@Expose
+private String soKMCHBubbleTea;
+@SerializedName("SoNgayMo")
+@Expose
+private String soNgayMo;
+
+public String getIdQuangCao() {
+return idQuangCao;
+}
+
+public void setIdQuangCao(String idQuangCao) {
+this.idQuangCao = idQuangCao;
+}
+
+public String getHinhAnhQuangCao() {
+return hinhAnhQuangCao;
+}
+
+public void setHinhAnhQuangCao(String hinhAnhQuangCao) {
+this.hinhAnhQuangCao = hinhAnhQuangCao;
+}
+
+public String getNoiDungQuangCao() {
+return noiDungQuangCao;
+}
+
+public void setNoiDungQuangCao(String noiDungQuangCao) {
+this.noiDungQuangCao = noiDungQuangCao;
+}
+
+public String getIdCHBubbleTea() {
+return idCHBubbleTea;
+}
+
+public void setIdCHBubbleTea(String idCHBubbleTea) {
+this.idCHBubbleTea = idCHBubbleTea;
+}
+
+public String getTenCHBubbleTea() {
+return tenCHBubbleTea;
+}
+
+public void setTenCHBubbleTea(String tenCHBubbleTea) {
+this.tenCHBubbleTea = tenCHBubbleTea;
+}
+
+public String getHinhAnhCHBubbleTea() {
+return hinhAnhCHBubbleTea;
+}
+
+public void setHinhAnhCHBubbleTea(String hinhAnhCHBubbleTea) {
+this.hinhAnhCHBubbleTea = hinhAnhCHBubbleTea;
+}
+
+public String getMoTaCHBubbleTea() {
+return moTaCHBubbleTea;
+}
+
+public void setMoTaCHBubbleTea(String moTaCHBubbleTea) {
+this.moTaCHBubbleTea = moTaCHBubbleTea;
+}
+
+public String getDanhGiaCHBubbleTea() {
+return danhGiaCHBubbleTea;
+}
+
+public void setDanhGiaCHBubbleTea(String danhGiaCHBubbleTea) {
+this.danhGiaCHBubbleTea = danhGiaCHBubbleTea;
+}
+
+public String getSoKMCHBubbleTea() {
+return soKMCHBubbleTea;
+}
+
+public void setSoKMCHBubbleTea(String soKMCHBubbleTea) {
+this.soKMCHBubbleTea = soKMCHBubbleTea;
+}
+
+public String getSoNgayMo() {
+return soNgayMo;
+}
+
+public void setSoNgayMo(String soNgayMo) {
+this.soNgayMo = soNgayMo;
+}
+
+}
